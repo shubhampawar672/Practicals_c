@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632918329 source:d:\cbmyprograms.cpp\girraffi.cpp\reverse_string_stack.cpp\main.cpp
+	<iostream>
+	<cstring>
+
