@@ -1,3 +1,4 @@
+//program to reverse the given string using stack
 #include<iostream>
 #include<cstring>
 
