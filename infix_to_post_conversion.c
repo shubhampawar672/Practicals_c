@@ -1,3 +1,4 @@
+//program to convert infix exoression to postfix
 #include<stdio.h>
 #include<ctype.h>
 char stack[20];
