@@ -1,3 +1,5 @@
+//to check if the given linked list is palindrome or not
+
 #include <iostream>
 
 using namespace std;
